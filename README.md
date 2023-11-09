@@ -19,5 +19,10 @@ To use this application, follow the steps below:
 
 3. Follow the list provided to find what you need.
 
+## Credits
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
 ## Video
 
+https://drive.google.com/file/d/1lyokExxEKRSLgD8FHFquEytLU2OBUEnQ/view
